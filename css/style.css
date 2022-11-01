@@ -1,0 +1,253 @@
+.bootstrap
+{
+background-color:black;
+height:55px;
+}
+.bootstrap .wrapper
+{
+	width:80%;
+    margin:auto;
+}
+.bootstrap .bootstrap-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.bootstrap .bootstrap-fc .start
+{
+	width:182px;
+	height:44px;
+	background-color:white;
+}
+.bootstrap .bootstrap-fc .detail
+{
+	width:580px;
+	height:44px;
+	background-color:white;
+}
+.image .wrapper
+{
+	width:100%;
+	margin:auto;
+}
+.image 
+{
+	height:400px;
+	background-color:blue;
+}
+
+.family .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.family
+{
+	height:575px;
+	background-color:red;
+}
+.family .family-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.family .family-fc .boxa
+{
+	width:100%;
+	height:55px;
+	background-color:white;
+	margin-top:30px;
+}
+.family .family-fc .boxb
+{
+	width:100%;
+	height:100px;
+	background-color:blue;
+}
+.family .family-fc .boxc
+{
+	width:533px;
+	height:337px;
+	background-color:white;
+}
+.family .family-fc .boxd
+{
+	width:533px;
+	height:337px;
+	background-color:black;
+}
+.box .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.box
+{
+	height:575px;
+	background-color:white;
+}
+.box .box-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.box .box-fc .boxa
+{
+	height:245px;
+	width:345px;
+	background-color:red;
+	margin-top:40px;
+}
+.box .box-fc .boxb
+{
+	height:245px;
+	width:345px;
+	background-color:red;
+	margin-top:40px;
+}
+.box .box-fc .boxc
+{
+	height:245px;
+	width:345px;
+	background-color:red;
+	margin-top:40px;
+}
+.box .box-fc .boxd
+{
+	height:245px;
+	width:345px;
+	background-color:red;
+	margin-top:10px;
+}
+.box .box-fc .boxe
+{
+	height:245px;
+	width:345px;
+	background-color:red;
+	margin-top:10px;
+}
+.box .box-fc .boxf
+{
+	height:245px;
+	width:345px;
+	background-color:red;
+	margin-top:10px;
+}
+.photos .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.photos 
+{
+	height:390px;
+	background-color:black;
+}
+.photos .photos-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.photos .photos-fc .texta
+{
+	height:55px;
+	width:226px;
+	background-color:white;
+	margin-top:20px;
+}
+.photos .photos-fc .textb
+{
+	height:55px;
+	width:100%;
+	background-color:white;
+	margin-top:20px;
+}
+.photos .photos-fc .boxa
+{
+	height:160px;
+	width:204px;
+	background-color:blue;
+	margin-top:50px;
+}
+.photos .photos-fc .boxb
+{
+	height:160px;
+	width:204px;
+	background-color:blue;
+	margin-top:50px;
+}
+.photos .photos-fc .boxc
+{
+	height:160px;
+	width:204px;
+	background-color:blue;
+	margin-top:50px;
+}
+.photos .photos-fc .boxd
+{
+	height:160px;
+	width:204px;
+	background-color:blue;
+	margin-top:50px;
+}
+.photos .photos-fc .boxe
+{
+	height:160px;
+	width:204px;
+	background-color:blue;
+	margin-top:50px;
+}
+.footer .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.footer
+{
+	height:350px;
+	background-color:yellow;
+}
+.footer .footer-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.footer .footer-fc .boxa
+{
+	height:50px;
+	width:600px;
+	background-color:white;
+	margin-top:20px
+}
+.footer .footer-fc .boxc
+{
+	height:50px;
+	width:600px;
+	background-color:white;
+	margin-top:20px
+}
+.footer .footer-fc .boxb
+{
+	height:36px;
+	width:600px;
+	background-color:white;
+	margin-top:20px
+}
+.footer .footer-fc .boxd
+{
+	height:36px;
+	width:600px;
+	background-color:white;
+	margin-top:20px
+}
+.footer .footer-fc .boxe
+{
+	height:36px;
+	width:600px;
+	background-color:white;
+	margin-top:20px;
+}
